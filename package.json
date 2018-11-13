@@ -51,7 +51,7 @@
     "mkdirp": "^0.5.1",
     "nodemon": "^1.11.0",
     "onetime": "^1.1.0",
-    "plotly.js": "^1.41.3",
+    "plotly.js": "^1.42.5",
     "prettier": "^1.5.3",
     "react": "^15.6.1",
     "react-addons-test-utils": "^15.6.0",
