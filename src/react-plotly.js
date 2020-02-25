@@ -7,7 +7,8 @@ Plotly.register([
     require('plotly.js/lib/bar'),
     require('plotly.js/lib/funnel'),
     require('plotly.js/lib/funnelarea'),
-    require('plotly.js/lib/scatter')
+    require('plotly.js/lib/scatter'),
+    require('plotly.js/lib/heatmap')
 ]);
 
 const PlotComponent = plotComponentFactory(Plotly);

@@ -14,7 +14,7 @@ var _core2 = _interopRequireDefault(_core);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-_core2.default.register([require('plotly.js/lib/pie'), require('plotly.js/lib/choropleth'), require('plotly.js/lib/bar'), require('plotly.js/lib/funnel'), require('plotly.js/lib/funnelarea'), require('plotly.js/lib/scatter')]);
+_core2.default.register([require('plotly.js/lib/pie'), require('plotly.js/lib/choropleth'), require('plotly.js/lib/bar'), require('plotly.js/lib/funnel'), require('plotly.js/lib/funnelarea'), require('plotly.js/lib/scatter'), require('plotly.js/lib/heatmap')]);
 
 var PlotComponent = (0, _factory2.default)(_core2.default);
 exports.default = PlotComponent;
